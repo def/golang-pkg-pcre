@@ -48,7 +48,7 @@ package pcre
 
 /*
 #cgo LDFLAGS: -lpcre
-#cgo CFLAGS: -I/opt/local/include
+#cgo CFLAGS: -I/opt/local/include -I/usr/local/include
 #include <pcre.h>
 #include <string.h>
 */
